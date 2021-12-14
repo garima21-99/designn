@@ -70,7 +70,7 @@ font-size: 2vw;
 
 }
 #value1
-{font-size: 2vw;
+{font-size: 1.6vw;
  float: right;
   margin-left: 6rem;}
 #value2
@@ -163,6 +163,7 @@ li
  margin-right: 2rem;
 width: 100%;
 float: right;
+font-size: 1.6vw;
 }
 .map-heading:first-child
 {
